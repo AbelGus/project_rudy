@@ -1,0 +1,1 @@
+puts "La fecha y hora actual es: #{Time.now.strftime('%Y-%m-%d %H:%M:%S')}"
